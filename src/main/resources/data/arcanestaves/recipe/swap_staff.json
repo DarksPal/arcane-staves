@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " PE",
+    " SP",
+    "S  "
+  ],
+  "key": {
+    "P": { "item": "minecraft:ender_pearl" },
+    "E": { "item": "minecraft:echo_shard" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "id": "arcanestaves:swap_staff", "count": 1 }
+}

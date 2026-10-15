@@ -1,0 +1,16 @@
+{
+  "itemGroup.arcanestaves": "Arcane Staves",
+  "item.arcanestaves.fire_staff": "Огненный посох",
+  "item.arcanestaves.fire_staff.desc": "Выпускает огненный шар, который поджигает цели и горючие блоки.",
+  "item.arcanestaves.swap_staff": "Посох Обмена",
+  "item.arcanestaves.swap_staff.desc": "Стреляет эхо-лучом и меняет вас местами с целью. Промах не тратит прочность.",
+  "item.arcanestaves.singularity_staff": "Посох Сингулярности",
+  "item.arcanestaves.singularity_staff.desc": "Создаёт гравитационную аномалию, стягивающую врагов, и схлопывается ударной волной.",
+  "item.arcanestaves.swap_bolt": "Луч Обмена",
+  "item.arcanestaves.singularity_orb": "Сфера Сингулярности",
+  "entity.arcanestaves.fire_staff_projectile": "Огненный шар",
+  "entity.arcanestaves.swap_bolt": "Луч Обмена",
+  "entity.arcanestaves.singularity_orb": "Сфера Сингулярности",
+  "entity.arcanestaves.singularity": "Сингулярность",
+  "message.arcanestaves.swap_blocked": "Нет места для обмена!"
+}

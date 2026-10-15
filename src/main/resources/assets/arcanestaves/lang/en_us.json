@@ -1,0 +1,16 @@
+{
+  "itemGroup.arcanestaves": "Arcane Staves",
+  "item.arcanestaves.fire_staff": "Fire Staff",
+  "item.arcanestaves.fire_staff.desc": "Launches a fireball that burns targets and ignites flammable blocks.",
+  "item.arcanestaves.swap_staff": "Staff of Swapping",
+  "item.arcanestaves.swap_staff.desc": "Fires an echo bolt that swaps places with the target. Missing costs no durability.",
+  "item.arcanestaves.singularity_staff": "Singularity Staff",
+  "item.arcanestaves.singularity_staff.desc": "Creates a gravity anomaly that drags enemies in, then collapses in a shockwave.",
+  "item.arcanestaves.swap_bolt": "Swap Bolt",
+  "item.arcanestaves.singularity_orb": "Singularity Orb",
+  "entity.arcanestaves.fire_staff_projectile": "Fireball",
+  "entity.arcanestaves.swap_bolt": "Swap Bolt",
+  "entity.arcanestaves.singularity_orb": "Singularity Orb",
+  "entity.arcanestaves.singularity": "Singularity",
+  "message.arcanestaves.swap_blocked": "There is no room to swap places!"
+}
